@@ -1,0 +1,10 @@
+img {
+    width: 100%;
+}
+
+hr.featurette-divider {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 3px solid rgba(0,0,0,.1);
+}
